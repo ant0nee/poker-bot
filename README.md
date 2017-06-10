@@ -4,7 +4,8 @@
 
 # getting started
 Create a file called "setup.json" with the contents: 
-```{
+```
+{
 	"token": "<PUT TOKEN HERE>"
 }
 ```
