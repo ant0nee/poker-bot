@@ -5,7 +5,7 @@ const FS = require("fs");
 //code
 CLIENT.on('ready', () => {
 
-	console.log(`Logged in as ${CLIENT.user.username}`);
+	console.log('Logged in as ${CLIENT.user.username}');
 
 });	
 
